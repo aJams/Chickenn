@@ -10,7 +10,8 @@ border:3px solid DarkOliveGreen;
 h2 {
 background-color:rgba(73,72,42,.4);
 }
-
+</style>
+</head>
 <body>
 <h1>Chicken... </h1>
 
