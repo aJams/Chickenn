@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<head>
+
+<title> Chickenn Facts </title>
+
+<style>
+
+body {
+	backgroundcolor:#75b04d
+h1 {
+color:DarkOliveGreen;
+}
+p {
+border:3px solid DarkOliveGreen;
+}
+h2 {
+background-color:rgba(73,72,42,.4);
+}
+.chickenbackground {
+position: relative;
+left: 0px;
+top: 0px;
+hight: 200px;
+width: 1000px;
+border: 5px solid Gainsboro;
+}
+.imgbackground{
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	hight: 200px;
+	width: 500px;
+	border: 3px solid FloralWhite;
+	padding: 2px;
+}
+.textbackground{
+	position: absolute;
+	left: 510px;
+	top: 10px;
+	hight:195px;
+	width: 500px;
+	background-color: Silver:
+	padding: 5px;
+}
+</style>
+</head>
+<body>
+<h1>Chicken... </h1>
+<div class=”chickenbackground”>
+<div class=”textbackground”>
+<p>Chicken is my favorite food: breaded, nuggets, fingers, strips, grilled, smoked, dipped in sauce, plain, and more</p><a href="https://en.m.wikipedia.org/wiki/Chicken">learn more here</a>
+</div>
+<div class=”imgbackground”>
+<img src="Silkie.jpg">
+</div>
+</div>
+</body>
+
+<hr>
+
+<body>
+<h2>Chicken is a type of meat that contains a vital source of protein.</h2>
+
+<div class=”chickenbackground”>
+<div class=”textbackground”>
+<p>Protein helps build our skin and is a reliable food source as it is as reliable as carbohydrates. <q>Lacking protein can be a health risk called Protein deficiency and malnutrition(PEM).</q> Wikipedia</p>
+<a href="https://m.youtube.com/playlist?list=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ">health stuff</a>
+</div>
+<div class=”imgbackground”>
+<img src="chickenwing.png">
+</div>
+</div>
+
+<h2>Chickens are raised as sources of food and as pets.</h2>
+<div class=”chickenbackground”>
+<div class=”textbackground”>
+<p>Chickens are a large part of modern society as they provide large chain restaurants with the food that a large population takes for granted every time you go to a fast food restaurant. Many people have them as pets and harvest their eggs, and many more live on farms to provide a food source for the main populace.</p>
+<a href="https://m.youtube.com/watch?v=hhZXw6UERRs">Social Media</a>
+</div>
+<div class=”imgbackground”>
+<img src="wendyz.jpeg">
+</div>
+</div>
+
+<h2>Chickens are life!</h2>
+<div class=”chickenbackground”>
+<div class=”textbackground”>
+<p>From social media all the way to your very own kitchen, chicken has been some part of your life. Even withholding from chicken itself is a lifestyle that has formed large communities of vegetarians and vegans. Since everyone has to have caloric intake to survive their life, it has rightfully so taken over a major hunk of our lifestyles.</p>
+<a href="https://m.youtube.com/watch?v=fBymZ4X_Gps">Example of chicken from recipe on youtube</a>
+</div>
+<div class=”imgbackground”>
+<img src="KFC3×2.jpg">
+</div>
+</div>
+
+</body>
+</html>
